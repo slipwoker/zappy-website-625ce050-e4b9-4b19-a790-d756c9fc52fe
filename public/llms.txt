@@ -1,0 +1,85 @@
+# מתוקים בעיניים — Generative Engine Optimization Map
+
+> A café located in Holon, Israel, with a strong emphasis on catering and hospitality trays as its primary business offering. The café also hosts small private events by prior reservation and operates a regular café menu. The brand identity is tied to its logo colors, suggesting an established visual identity. The business combines the warmth of a neighborhood café with professional catering and event services.
+
+---
+
+## Pages
+
+### בית
+https://-625ce050.zappy5.app
+בית קפה בחולון שמגיש הרבה מעבר לקפה: מגשי קייטרינג חלבי מעוצבים, אירוח מושלם לעסקים ואירועים קטנים עם טעם של עוד. בואו לטעום את המתוק האמיתי.
+
+### מגשי קייטרינג ואירוח
+https://-625ce050.zappy5.app/catering-hospitality-trays
+מגשי קייטרינג חלבי בחולון שמשדרגים כל ישיבת עבודה או אירוח ביתי. שפע צבעים, טעמים וטריות ללא פשרות עם כשרות בד&quot;צ בית יוסף. הזמינו עכשיו והושיבו את האורחים בנוחות.
+
+### אירועים פרטיים
+https://-625ce050.zappy5.app/private-events
+אירועים קטנים בחולון באווירה אינטימית וטעימה במיוחד. ימי הולדת, מסיבות קוקטייל או ערב חברים – אנחנו דואגים לכל ביס וכל חיוך. תאמו אירוע מראש ותתפנו רק ליהנות.
+
+### חוויית תפריט בית קפה
+https://-625ce050.zappy5.app/cafe-menu-experience
+חוויית תפריט בית קפה בחולון שמשלבת ניחוחות, טעמים וצבעים בלתי נשכחים. מנות מרעננות, קינוחים מפנקים ואווירה שעושה חשק להישאר. שבו, תטעמו, תתאהבו.
+
+### צור קשר
+https://-625ce050.zappy5.app/contact
+רוצים להזמין מגשי אירוח, לסגור אירוע קטן או סתם לשאול על התפריט? צרו קשר עם מתוקים בעיניים בחולון ואנחנו נחזור אליכם עם כל הפרטים והחיוך. המתוק מחכה לכם.
+
+### Products
+https://-625ce050.zappy5.app/products
+המוצרים שלנו - מתוקים בעיניים
+
+### Product Detail
+https://-625ce050.zappy5.app/product/:slug
+פרטי המוצר - מתוקים בעיניים
+
+### Category
+https://-625ce050.zappy5.app/category/:slug
+מוצרים - מתוקים בעיניים
+
+## Legal & Policy
+
+### Privacy Policy
+https://-625ce050.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-625ce050.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-625ce050.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מתוקים בעיניים
+A café located in Holon, Israel, with a strong emphasis on catering and hospitality trays as its primary business offering. The café also hosts small private events by prior reservation and operates a regular café menu. The brand identity is tied to its logo colors, suggesting an established visual identity. The business combines the warmth of a neighborhood café with professional catering and event services.
+
+## Target Audience
+- מתכנני אירועים עסקיים
+- עסקים באיזור חולון
+- מחפשים קטיירינג
+- אוהבי בתי קפה
+
+## Industry
+Food & Beverage / Catering
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-625ce050.zappy5.app/sitemap.xml
+- Robots: https://-625ce050.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-625ce050.zappy5.app/llms-full.txt
+- Products (JSON): https://-625ce050.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-625ce050.zappy5.app/product-feed.xml
