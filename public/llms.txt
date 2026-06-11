@@ -7,49 +7,49 @@
 ## Pages
 
 ### בית
-https://-625ce050.zappy5.app
+https://example.com
 בית קפה בחולון שמגיש הרבה מעבר לקפה: מגשי קייטרינג חלבי מעוצבים, אירוח מושלם לעסקים ואירועים קטנים עם טעם של עוד. בואו לטעום את המתוק האמיתי.
 
 ### מגשי קייטרינג ואירוח
-https://-625ce050.zappy5.app/catering-hospitality-trays
+https://example.com/catering-hospitality-trays
 מגשי קייטרינג חלבי בחולון שמשדרגים כל ישיבת עבודה או אירוח ביתי. שפע צבעים, טעמים וטריות ללא פשרות עם כשרות בד&quot;צ בית יוסף. הזמינו עכשיו והושיבו את האורחים בנוחות.
 
 ### אירועים פרטיים
-https://-625ce050.zappy5.app/private-events
+https://example.com/private-events
 אירועים קטנים בחולון באווירה אינטימית וטעימה במיוחד. ימי הולדת, מסיבות קוקטייל או ערב חברים – אנחנו דואגים לכל ביס וכל חיוך. תאמו אירוע מראש ותתפנו רק ליהנות.
 
 ### חוויית תפריט בית קפה
-https://-625ce050.zappy5.app/cafe-menu-experience
+https://example.com/cafe-menu-experience
 חוויית תפריט בית קפה בחולון שמשלבת ניחוחות, טעמים וצבעים בלתי נשכחים. מנות מרעננות, קינוחים מפנקים ואווירה שעושה חשק להישאר. שבו, תטעמו, תתאהבו.
 
 ### צור קשר
-https://-625ce050.zappy5.app/contact
+https://example.com/contact
 רוצים להזמין מגשי אירוח, לסגור אירוע קטן או סתם לשאול על התפריט? צרו קשר עם מתוקים בעיניים בחולון ואנחנו נחזור אליכם עם כל הפרטים והחיוך. המתוק מחכה לכם.
 
 ### Products
-https://-625ce050.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - מתוקים בעיניים
 
 ### Product Detail
-https://-625ce050.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - מתוקים בעיניים
 
 ### Category
-https://-625ce050.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - מתוקים בעיניים
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-625ce050.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-625ce050.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-625ce050.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -78,8 +78,8 @@ Food & Beverage / Catering
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-625ce050.zappy5.app/sitemap.xml
-- Robots: https://-625ce050.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-625ce050.zappy5.app/llms-full.txt
-- Products (JSON): https://-625ce050.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-625ce050.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
